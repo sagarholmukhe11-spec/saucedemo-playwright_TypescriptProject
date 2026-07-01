@@ -40,6 +40,5 @@ console.log('Expected Prices:', expectedPrices);
 
 
 
-
 })
 
